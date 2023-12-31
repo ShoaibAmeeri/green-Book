@@ -7,10 +7,11 @@ function ChCard(props) {
        
         <img
           src={props.src}
+
           alt=""
         />
 
-        <button className="hover:bg-green-400 text-center w-full mt-2 p-1 text-green-500 border-2 border-green-500 hover:text-white font-semibold text-lg rounded-md ">Read Now</button>
+        <button className="hover:bg-green-500 text-center w-full mt-2 p-1 text-green-500 border-2 border-green-500 hover:text-white font-semibold text-lg rounded-md ">Read Now</button>
       </div>
     </div>
   );
