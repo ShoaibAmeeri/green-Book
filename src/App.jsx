@@ -16,8 +16,8 @@ function App() {
       <body className=" bg-white">
    
         <Nav/>
-        {/* <Home/>  */}
-        <AboutUs/>
+        <Home/> 
+        {/* <AboutUs/>  */}
         <Footer/>
        
       </body>
